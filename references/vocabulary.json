@@ -1,0 +1,499 @@
+{
+  "code": {
+    "ru": [
+      "код",
+      "фрагмент кода"
+    ],
+    "en": [
+      "code",
+      "snippet"
+    ]
+  },
+  "diff": {
+    "ru": [
+      "разница версий",
+      "изменения строк"
+    ],
+    "en": [
+      "file",
+      "diff",
+      "code",
+      "changes"
+    ]
+  },
+  "streaming": {
+    "ru": [
+      "потоковый ответ",
+      "печатается"
+    ],
+    "en": [
+      "streaming",
+      "incremental",
+      "response"
+    ]
+  },
+  "steps": {
+    "ru": [
+      "шаги выполнения",
+      "этапы",
+      "задачи"
+    ],
+    "en": [
+      "task",
+      "steps",
+      "progress",
+      "checklist"
+    ]
+  },
+  "ai": {
+    "ru": [
+      "ИИ",
+      "агент",
+      "нейросеть"
+    ],
+    "en": [
+      "AI",
+      "agent",
+      "assistant"
+    ]
+  },
+  "switch": {
+    "ru": [
+      "тумблер",
+      "переключатель",
+      "включить выключить"
+    ],
+    "en": [
+      "switch",
+      "toggle",
+      "on",
+      "off"
+    ]
+  },
+  "tabs": {
+    "ru": [
+      "вкладки",
+      "переключение разделов"
+    ],
+    "en": [
+      "tabs",
+      "tab",
+      "panel"
+    ]
+  },
+  "segmented-control": {
+    "ru": [
+      "сегментированный переключатель"
+    ],
+    "en": [
+      "segmented",
+      "control",
+      "selector"
+    ]
+  },
+  "morph": {
+    "ru": [
+      "морфинг",
+      "превращение",
+      "плавная смена формы"
+    ],
+    "en": [
+      "morph",
+      "shared",
+      "element",
+      "transition"
+    ]
+  },
+  "spring": {
+    "ru": [
+      "пружина",
+      "упругий отскок"
+    ],
+    "en": [
+      "spring",
+      "bounce",
+      "elastic"
+    ]
+  },
+  "hover": {
+    "ru": [
+      "при наведении",
+      "за курсором"
+    ],
+    "en": [
+      "hover",
+      "pointer",
+      "interaction"
+    ]
+  },
+  "drag": {
+    "ru": [
+      "перетаскивание",
+      "изменение порядка"
+    ],
+    "en": [
+      "drag",
+      "drop",
+      "reorder"
+    ]
+  },
+  "swipe": {
+    "ru": [
+      "свайп",
+      "жест"
+    ],
+    "en": [
+      "swipe",
+      "gesture"
+    ]
+  },
+  "scroll": {
+    "ru": [
+      "скролл",
+      "прокрутка"
+    ],
+    "en": [
+      "scroll",
+      "follow",
+      "viewport"
+    ]
+  },
+  "reveal": {
+    "ru": [
+      "появление",
+      "проявление"
+    ],
+    "en": [
+      "reveal",
+      "entrance"
+    ]
+  },
+  "collapse": {
+    "ru": [
+      "раскрытие",
+      "сворачивание"
+    ],
+    "en": [
+      "expand",
+      "collapse",
+      "disclosure"
+    ]
+  },
+  "blur": {
+    "ru": [
+      "размытие"
+    ],
+    "en": [
+      "blur",
+      "fade"
+    ]
+  },
+  "shimmer": {
+    "ru": [
+      "блик",
+      "перелив"
+    ],
+    "en": [
+      "shimmer",
+      "shine"
+    ]
+  },
+  "loader": {
+    "ru": [
+      "загрузка",
+      "ожидание",
+      "скелетон"
+    ],
+    "en": [
+      "loader",
+      "loading",
+      "spinner",
+      "skeleton"
+    ]
+  },
+  "confirmation": {
+    "ru": [
+      "подтвердить",
+      "согласовать"
+    ],
+    "en": [
+      "confirm",
+      "approval",
+      "accept",
+      "reject"
+    ]
+  },
+  "chat": {
+    "ru": [
+      "чат",
+      "сообщение"
+    ],
+    "en": [
+      "chat",
+      "message",
+      "conversation"
+    ]
+  },
+  "input": {
+    "ru": [
+      "поле ввода",
+      "промпт"
+    ],
+    "en": [
+      "input",
+      "composer",
+      "prompt"
+    ]
+  },
+  "selection": {
+    "ru": [
+      "выбор",
+      "выделение"
+    ],
+    "en": [
+      "selection",
+      "picker"
+    ]
+  },
+  "menu": {
+    "ru": [
+      "меню",
+      "команды"
+    ],
+    "en": [
+      "menu",
+      "command",
+      "palette"
+    ]
+  },
+  "overlay": {
+    "ru": [
+      "окно",
+      "поповер",
+      "панель"
+    ],
+    "en": [
+      "dialog",
+      "modal",
+      "popover",
+      "drawer",
+      "tooltip"
+    ]
+  },
+  "notification": {
+    "ru": [
+      "уведомление",
+      "тост",
+      "баннер"
+    ],
+    "en": [
+      "notification",
+      "toast",
+      "banner"
+    ]
+  },
+  "image": {
+    "ru": [
+      "изображение",
+      "фотография"
+    ],
+    "en": [
+      "image",
+      "photo",
+      "gallery"
+    ]
+  },
+  "carousel": {
+    "ru": [
+      "карусель",
+      "слайдер изображений"
+    ],
+    "en": [
+      "carousel",
+      "image",
+      "slider"
+    ]
+  },
+  "marquee": {
+    "ru": [
+      "бегущая строка",
+      "лента"
+    ],
+    "en": [
+      "marquee",
+      "infinite",
+      "ticker"
+    ]
+  },
+  "text": {
+    "ru": [
+      "текст",
+      "типографика"
+    ],
+    "en": [
+      "text",
+      "typography"
+    ]
+  },
+  "number": {
+    "ru": [
+      "число",
+      "счётчик",
+      "цифры"
+    ],
+    "en": [
+      "number",
+      "counter",
+      "ticker"
+    ]
+  },
+  "chart": {
+    "ru": [
+      "график",
+      "диаграмма"
+    ],
+    "en": [
+      "chart",
+      "graph",
+      "visualization"
+    ]
+  },
+  "table": {
+    "ru": [
+      "таблица"
+    ],
+    "en": [
+      "table",
+      "data",
+      "grid"
+    ]
+  },
+  "navigation": {
+    "ru": [
+      "навигация",
+      "сайдбар"
+    ],
+    "en": [
+      "navigation",
+      "sidebar"
+    ]
+  },
+  "shader": {
+    "ru": [
+      "шейдер",
+      "GPU"
+    ],
+    "en": [
+      "shader",
+      "WebGL",
+      "GPU"
+    ]
+  },
+  "particles": {
+    "ru": [
+      "частицы",
+      "конфетти"
+    ],
+    "en": [
+      "particles",
+      "confetti"
+    ]
+  },
+  "audio": {
+    "ru": [
+      "голос",
+      "звук",
+      "аудио"
+    ],
+    "en": [
+      "voice",
+      "audio",
+      "waveform",
+      "speech"
+    ]
+  },
+  "form": {
+    "ru": [
+      "форма",
+      "вход",
+      "регистрация"
+    ],
+    "en": [
+      "form",
+      "auth",
+      "login"
+    ]
+  },
+  "card": {
+    "ru": [
+      "карточка"
+    ],
+    "en": [
+      "card",
+      "surface"
+    ]
+  },
+  "landing": {
+    "ru": [
+      "лендинг",
+      "секция"
+    ],
+    "en": [
+      "landing",
+      "section",
+      "hero"
+    ]
+  },
+  "background": {
+    "ru": [
+      "фон",
+      "паттерн"
+    ],
+    "en": [
+      "background",
+      "pattern"
+    ]
+  },
+  "line-add": {
+    "ru": [
+      "добавление строк",
+      "дописывается",
+      "дописываются"
+    ],
+    "en": [
+      "line-add",
+      "insert",
+      "addition"
+    ]
+  },
+  "line-remove": {
+    "ru": [
+      "удаление строк",
+      "удаляются",
+      "зачёркиваются"
+    ],
+    "en": [
+      "line-remove",
+      "delete",
+      "removal"
+    ]
+  },
+  "version-transition": {
+    "ru": [
+      "между версиями",
+      "замена кода"
+    ],
+    "en": [
+      "before-after",
+      "version-transition"
+    ]
+  },
+  "static-diff": {
+    "ru": [
+      "статический diff"
+    ],
+    "en": [
+      "static-diff"
+    ]
+  }
+}
